@@ -1,0 +1,56 @@
+﻿Stock Sectors,Stock Code,Stock Name
+Energy,OXY,Occidental Petroleum Corp
+Energy,MRO,Marathon Oil Corp
+Energy,APA,Apache Corp
+Energy,HAL,Halliburton Company
+Energy,XOM,Exxon Mobil Corp2.         
+Basic Materials,FCX,Freeport-Mcmoran Inc
+Basic Materials,NEM,Newmont Mining Corp
+Basic Materials,DOW,Dow Inc
+Basic Materials,AMCR,Amcor Plc
+Basic Materials,DD,Du Pont De.Nemours Inc3.         
+Industrials,MMM,3M Company
+Industrials,GE,General Electric Company
+Industrials,AAL,American Airlines Gp
+Industrials,HON,Honeywell International Inc
+Industrials,BA,Boeing Company4.         
+Consumer Discretionary,AMZN,Amazon
+Consumer Discretionary,HD,Home Depot
+Consumer Discretionary,F,Ford Motor Company
+Consumer Discretionary,SBUX,Starbucks Corp
+Consumer Discretionary,TGT,Target Corp5.         
+Consumer Staples,COST,Costco Wholesale
+Consumer Staples,KO,Coca-Cola Company
+Consumer Staples,PG,Procter & Gamble Company
+Consumer Staples,KHC,Kraft Heinz Company
+Consumer Staples,WMT,Wal-Mart Stores6.         
+Healthcare,PFE,Pfizer Inc
+Healthcare,JNJ,Johnson & Johnson
+Healthcare,MRK,Merck & Company
+Healthcare,MDT,Medtronic Inc
+Healthcare,CVS,CVS Corp7.         
+Financial,BAC,Bank of America Corp
+Financial,WFC,Wells Fargo & Company
+Financial,C,Citigroup Inc
+Financial,JPM,JP Morgan Chase & Company
+Financial,MS,Morgan Stanley8.         
+Information Technology,MSFT,Microsoft Corp
+Information Technology,AAPL,Apple Inc
+Information Technology,INTC,Intel Corp
+Information Technology,V,Visa Inc
+Information Technology,INTC,Intel Corp9.         
+Communications,T,AT&T Inc
+Communications,DIS,Walt Disney Company
+Communications,CMCSA,Comcast Corp A
+Communications,FB,Facebook Inc
+Communications,NFLX,Netflix Inc10.      
+Utilities,CNP,Centerpoint Energy Inc
+Utilities,EXC,Exelon Corp
+Utilities,SO,Southern Company
+Utilities,PPL,PPL Corp
+Utilities,DUK,Duke Energy Corp11.      
+Real Estate,VTR,Ventas Inc
+Real Estate,SPG,Simon Property Group
+Real Estate,PLD,Prologis Inc
+Real Estate,WELL,Welltower Inc
+Real Estate,HST,Host Marriott Financial Trust
